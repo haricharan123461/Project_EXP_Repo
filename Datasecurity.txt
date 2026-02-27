@@ -1,0 +1,7 @@
+Sir, traditional encryption secures data, but if an attacker detects encrypted content, it may still become a target. My project focuses on adding an additional layer of security by combining cryptography with DNA-based steganography.
+
+I am developing an integrated security framework where data is first encrypted using AES encryption, and then further transformed using bio-inspired encoding that simulates biological processes like DNA → RNA → Protein translation.
+
+Additionally, I am applying genetic algorithms to optimize the encoding patterns, improving randomness and resistance to pattern-based attacks.
+
+The idea is to combine strong cryptographic security with biologically inspired data transformation, making the data both encrypted and obfuscated.
